@@ -65,9 +65,14 @@
         width="93">
 </div>
 <br><br>
+### 🔥 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav8639&show_icons=true&locale=en&layout=compact" alt="abhinav8639" /></p>
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav8639&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8639&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav8639&show_icons=true&locale=en" alt="abhinav8639" /></p>
+### 📊 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav8639&" alt="abhinav8639" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhinav8639&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+
+
